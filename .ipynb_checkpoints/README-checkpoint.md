@@ -25,8 +25,3 @@ Unit 2 | Homework Assignement: Automate Your Day Job with Python
         - First using Python aproach that did not work for text file
         - Second using alterate approach that worked for the text file
     - Rext File = FinancialAnalysis_PyRamen.txt
-    
-# 04-Pandas 
-Unit 4 | Homework Assignement: A Whale Off the Port(folio)
-
-    - See Readme file in the 04-Pandas directory for details
